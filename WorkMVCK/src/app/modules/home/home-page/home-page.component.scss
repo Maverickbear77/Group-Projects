@@ -1,0 +1,30 @@
+.container{
+    position: fixed; 
+    top: 80px; 
+    left: 0px;
+    min-width: 100%;
+    min-height: 100%;
+    background-image: url("../../../../assets/images/home.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.title{
+    padding-top: 150px;
+    color: rgb(100, 100, 100);
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 30px;
+    float: right;
+}
+.content{
+    position: absolute;
+    right: 20px;
+    padding-top: 200px;
+    color: rgb(100, 100, 100);
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+   
+}
